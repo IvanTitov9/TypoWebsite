@@ -1,6 +1,6 @@
 title: Typo World
 description: How Luxury Brands identify themselves through their Logos
-footer_text: "Copyright 2021 Ivan "
+footer_text: "Copyright 2021 "
 header_feature_image: ../uploads/luxury-brands-cover.jpg
 header_text: ""
 header_text_color: "#ffffff"
@@ -10,4 +10,4 @@ logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: true
-upzoom: true
+upzoom: false
