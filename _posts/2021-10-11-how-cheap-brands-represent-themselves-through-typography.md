@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How cheap brands represent themselves through typography "
-date: 2021-10-11T16:51:56.769Z
+title: "How Cheap brands represent themselves through typography "
+date: 2021-10-10T17:00:56.769Z
 image: ../uploads/andres-jasso-pqbl_mxmaue-unsplash.jpg
 title_color: "#ffffff"
 comments: false
