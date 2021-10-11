@@ -5,7 +5,7 @@ header_feature_image: ../uploads/luxury-brands-cover.jpg
 header_text: ""
 header_text_color: "#ffffff"
 bannerheight: 20vmax
-navbarheight: 35px
+navbarheight: 85px
 logo: ../uploads/screenshot-2021-10-11-at-14.17.49.png
 favicon: ""
 gridlayout: false
