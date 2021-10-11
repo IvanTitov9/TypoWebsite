@@ -6,8 +6,8 @@ header_text: ""
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 35px
-logo: ../uploads/screenshot-2021-10-11-at-14.12.11.png
-favicon: /uploads/favicon.ico
+logo: ../uploads/screenshot-2021-10-11-at-14.17.49.png
+favicon: ""
 gridlayout: false
 fixednavbar: true
 upzoom: false
