@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Luxury clothes Brands use the Typography in their Logos
-date: 2021-10-11T16:44:01.487Z
+date: 2021-10-03T17:00:00.000Z
 image: ../uploads/kyrell-wnl9y7dtgno-unsplash.jpg
 caption: Typography
 tags:
