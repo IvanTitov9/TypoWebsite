@@ -1,48 +1,26 @@
 ---
 layout: post
-title: Here is a blog post sample
-date: 2020-06-24 17:50
-image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+title: How Luxury clothes Brands use the Typography in their Logos
+date: 2021-10-11T15:44:44.803Z
+image: ../uploads/kyrell-wnl9y7dtgno-unsplash.jpg
+caption: Typography
+tags:
+  - Fashion
+  - Journalism
+  - Fonts
 ---
+The Human brain takes fractions of seconds to analyse, critique and understand images just by taking a quick glance. Therefore, it is so important to Brands to fit all their best qualities into one Logo, a Logo that will identify them, classify them as an expensive or cheap brand just because the fonts are different. Companies invest millions into the design of their logo and today we will be having a look at a few that pay the most to see if there is a difference between those who pay the least.
 
-**Please do not edit this post.** You should create a new post and then delete this sample when you are ready. Do not delete this post until you have created at least one of your own. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. Only the first paragraph will appear on the home page.
+![Prada](../uploads/ryan-gardner-ykaz9cyccqo-unsplash-1-.jpg)
 
-The `image` is optional and you should enter the path to it in the metadata above.
+The likes of Prada, Louis Vuitton, Brioni and many alike tend to opt for their name to be small but in a large space. Just by glancing at this our mind tells us that this is an expensive brand but, why?
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+Psychologically we consider small things taking up big spaces to be a waste of money. We do this on the basis that in our society, in our world, anything that is bigger is more expensive therefore, a large surface area will cost a fortune and to keep something small in the middle of it is a waste of money. Just because of these small factors our brain has already decided that the brand is expensive even before knowing the price of any of the items in there.
 
+![Gucci](../uploads/dima-pechurin-qguujmzgqyq-unsplash.jpg)
 
-![Here is a book](../uploads/pages.jpg)
+Luxurious brands also tend to use more pastel and calming colours to maximise the sense of luxury, calmness and welcoming for their brand. Some such as Gucci, however, use bright colours, this in no shape or form scares the customers and Gucci themselves tend to produce quite exciting and colourful clothing. The colours around the typography are important but not anywhere near as important as the letters themselves. Numerous Luxury brands opt for similar fonts. They all have a certain length and shape of serif that attracts the eye. Fonts such as Finnmark, Belgiana script and other all have a similar pattern they are just ever so slightly different. These fonts allow us to understand the brand.
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+Come back next week when we look more closely at the factors that benefit the less luxurious brands and what they do to stand out in such a busy market. 
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
-
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
-
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
-
-## Here is a an image
-
-![Wooden Type](../uploads/log.jpg)
-
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
-
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
-
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
-
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
-
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
-
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+From the information gathered, many luxurious clothing brands logos are similar and the use of space, use of colours and especially the use of typography, the fonts, all make a drastic difference to our first impressions of the company.
