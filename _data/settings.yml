@@ -11,3 +11,6 @@ favicon: ""
 gridlayout: false
 fixednavbar: true
 upzoom: false
+items:
+  - name: About Me
+    siteurl: /aboutme/
