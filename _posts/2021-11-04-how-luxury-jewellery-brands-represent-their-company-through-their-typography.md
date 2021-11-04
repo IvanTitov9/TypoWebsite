@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Luxury Jewellery Brands represent their company through their typography
-date: 2021-11-04T17:09:37.944Z
+date: 2021-10-17T17:00:37.944Z
 image: ../uploads/jacek-dylag-_tv4btpdbgw-unsplash.jpg
 title_color: "#ffffff"
 comments: false
