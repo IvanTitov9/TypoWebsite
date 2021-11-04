@@ -9,6 +9,8 @@ tags: null
 ---
 In the first two weeks we spoke about clothing brands. This week and next week we will be speaking about Luxurious jewellery brands, affordable jewellery brands and how the typography in their logos differ to welcome in their customers.
 
+
+
 In both articles over the two weeks, we will also include watches as they play a massive role in both male and female accessories.
 
 Cartier is one of the most well-known Luxury Jewellery brands in the world. Their prices differ from 300 pounds for a bracelet all the way past hundreds of thousands for a watch.  One of their best sellers is a unisex cartier bracelet retailing at just under five thousand pounds.
