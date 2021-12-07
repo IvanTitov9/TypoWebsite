@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Affordable Clothes Brand use Typography in their Logos
+title: How Affordable Clothes Brands use Typography in their Logos
 date: 2021-10-10T17:00:56.769Z
 image: ../uploads/andres-jasso-pqbl_mxmaue-unsplash.jpg
 title_color: "#ffffff"
