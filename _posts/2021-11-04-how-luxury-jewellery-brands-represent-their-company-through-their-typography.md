@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Luxury Jewellery Brands use Typography in their Logos
-date: 2021-10-17T17:00:37.944Z
+date: 2021-10-17T14:00:37.944Z
 image: ../uploads/jacek-dylag-_tv4btpdbgw-unsplash.jpg
 title_color: "#ffffff"
 comments: false
