@@ -1,7 +1,6 @@
 ---
 layout: post
-title: How affordable Jewellery Brands portray themselves through the typography
-  in their Logos
+title: How Affordable Jewellery Brands use Typography in their Logos
 date: 2021-10-24T17:00:27.898Z
 image: ../uploads/eric-fung-sr27o-tqlfs-unsplash.jpg
 title_color: "#ffffff"
