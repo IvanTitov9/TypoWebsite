@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Luxury clothes Brands use the Typography in their Logos
+title: How Luxury Clothes Brands use the Typography in their Logos
 date: 2021-10-03T17:00:00.000Z
 image: ../uploads/laura-chouette-kl_se98j4_0-unsplash.jpg
 caption: Typography
