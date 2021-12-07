@@ -16,4 +16,6 @@ The Restaurant business is one of the most heavily congested markets in the worl
 
 The most well-known affordable restaurants all have an iconic logo. Of course, at the top of that list is McDonalds. As of 2018 it is the largest restaurant chain by revenue, they serve over 69 million customers daily in over 100 countries and they have over 38 thousand restaurants. Of course, not every restaurant chain can grow to this size but arguably one of the most important aspects of McDonalds is their iconic logo. The yellow M in the logo represents the golden arches that were the substance of the newly constructed architecture of the first franchised restaurant in 1952 and the font used is the Lovin’ Sans. This font is used in all their typography. Therefore, it is clear to see that for the biggest companies, typography is one of the most important aspects.
 
+![](../uploads/7.jpg)
+
 It is clear to see that there is not a huge difference in the use of Typography between Luxurious and Affordable businesses in the clothing, jewellery and restaurant industry. This is simply due to us, the customers and what appeals to most of us. Despite every single one of us being completely different to one another, our interpretation of images, logos and typography doesn’t differ all that much and there is more in common between us than we dare to imagine.
