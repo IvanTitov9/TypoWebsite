@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Affordable Jewellery Brands use Typography in their Logos
-date: 2021-10-24T17:00:27.898Z
+date: 2021-10-24T14:00:27.898Z
 image: ../uploads/eric-fung-sr27o-tqlfs-unsplash.jpg
 title_color: "#ffffff"
 comments: false
