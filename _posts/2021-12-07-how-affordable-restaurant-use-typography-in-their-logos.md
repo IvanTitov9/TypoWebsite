@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Affordable Restaurant use Typography in their Logos
-date: 2021-10-31T14:00:26.047Z
+date: 2021-11-07T14:00:26.047Z
 image: ../uploads/jonathan-borba-8l8yl2ruusg-unsplash.jpg
 title_color: "#ffffff"
 comments: false
